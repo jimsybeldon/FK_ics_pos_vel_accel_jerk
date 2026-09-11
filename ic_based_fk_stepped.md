@@ -1,0 +1,1 @@
+[Read this chat to understand](https://copilot.microsoft.com/shares/1dvUUoBv9bq7YTqDHCRKc)
