@@ -105,6 +105,8 @@ $$(x - P) \cdot n_P = 0, \quad (x - B) \cdot n_B = 0 \quad \text{where } n = (-v
 
 $$\begin{bmatrix} n_{P,x} & n_{P,y} \\ n_{B,x} & n_{B,y} \end{bmatrix} \begin{bmatrix} IC_x \\ IC_y \end{bmatrix} = \begin{bmatrix} n_P \cdot P \\ n_B \cdot B \end{bmatrix}$$
 
+![Coupler_IC_locus.png](Coupler_IC_locus.png)
+
 ### 4. Rocker Velocity & Ideal Torque Transmission Ratio
 From rocker angular position $\theta_c = \operatorname{atan2}(C_y - D_y, C_x - D_x)$:
 
